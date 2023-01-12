@@ -10,7 +10,7 @@ dist
 dist-ssr
 explorations
 node_modules
-playground-temp
+playground/node_modules
 temp
 TODOs.md
 .eslintcache
